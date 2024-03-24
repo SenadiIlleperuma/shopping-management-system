@@ -1,0 +1,16 @@
+E001
+bulb
+2
+20.0
+E003
+Television
+3
+100.0
+C002
+Shorts
+4
+40.0
+C003
+Shirt
+1
+60.0
